@@ -1,0 +1,8 @@
+# RockPaperScissors
+simple python rps game
+
+
+
+
+
+      I DONT FUCKING KNOW HOW TO USE GITHUB WITH PYCHARM, YOUTUBE IS DOING SHIT POOP POOP
